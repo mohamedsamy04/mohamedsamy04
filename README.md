@@ -59,13 +59,14 @@
 
 ## 📊 GitHub Stats  
 
+
 <!-- GitHub Stats -->
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmedfahmy8308&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MohamedSamy&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages" />
 
 <br>
 
 <!-- Profile Views Counter -->
 <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=Ahmedfahmy8308&style=for-the-badge" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=MohamedSamy&style=for-the-badge" alt="Profile Views" />
 </p>
 
