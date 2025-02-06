@@ -59,10 +59,13 @@
 
 ## 📊 GitHub Stats  
 
-<img align="left" src="https://portfolio-psi-two-81.vercel.app/?username=mohamedsamy&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<!-- GitHub Stats -->
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmedfahmy8308&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages" />
 
 <br>
 
-<a href="https://komarev.com/ghpvc/?username=mohamedsamy&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=mohamedsamy&style=for-the-badge">
-</a>
+<!-- Profile Views Counter -->
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=Ahmedfahmy8308&style=for-the-badge" alt="Profile Views" />
+</p>
+
