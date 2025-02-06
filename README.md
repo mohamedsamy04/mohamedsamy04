@@ -12,7 +12,7 @@
 
 ## 🚀 About Me  
 
-- 👨‍💻 **Frontend Developer** with **1.5+ years** of experience in modern web development.  
+- 👨‍💻 **Frontend Developer** with **2+ years** of experience in modern web development.  
 - 🏗️ Passionate about building **responsive**, **user-friendly** web applications with elegant designs.  
 - 🔍 Proficient in **HTML, CSS, JavaScript**, and frameworks like **React.js & Next.js**.  
 - 🎨 Skilled in **Sass, Tailwind CSS, Bootstrap**, and **GitHub** for version control.  
@@ -25,16 +25,13 @@
 ## 🔗 Connect with Me  
 
 <p align="left">
-<a href="https://www.linkedin.com/in/mohamed-samy" target="blank">
+<a href="http://www.linkedin.com/in/mo72medsamy" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
-<a href="https://twitter.com/mohamedsamy" target="blank">
+<a href="https://x.com/mo72med_samy?s=21&t=sNTUQJzP5ml0ixo6Gz5bfA" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
 </a>
-<a href="https://youtube.com/@SamyTechAcademy" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
-</a>
-<a href="https://instagram.com/mohamedsamy" target="blank">
+<a href="https://www.instagram.com/mo72med_samy/profilecard/?igsh=cXQwZThnam50N2dz" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
 </a>
 <a href="mailto:mohamedsamy25411@gmail.com">
@@ -62,7 +59,7 @@
 
 ## 📊 GitHub Stats  
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedsamy&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<img align="left" src="https://portfolio-psi-two-81.vercel.app/?username=mohamedsamy&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 
 <br>
 
