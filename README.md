@@ -57,14 +57,14 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=radical&hide_border=true" alt="GitHub Streak">
-</p>
+## 🚀 Portfolio  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies">
+  🌍 Explore my work and projects on  
+  <br>
+  <a href="https://portfolio-psi-two-81.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Portfolio-%2300C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge">
+  </a>
 </p>
+
 
