@@ -60,13 +60,11 @@
 ## 📊 GitHub Stats  
 
 
-<!-- GitHub Stats -->
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MohamedSamy&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=radical&hide_border=true" alt="GitHub Streak">
+</p>
 
-<br>
-
-<!-- Profile Views Counter -->
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=MohamedSamy&style=for-the-badge" alt="Profile Views" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies">
 </p>
 
