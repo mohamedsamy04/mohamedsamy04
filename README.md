@@ -1,70 +1,83 @@
-<h3 align="center">
-  Welcome to my profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohamed+Samy;Frontend+Developer" alt="Typing SVG" />
+</div>
 
-<!-- Typing SVG by DenverCoder1 -->
+<h3 align="center">A passionate Frontend Developer from Egypt 🌟</h3>
+
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20I'm%20Mohamed%20Samy;Frontend%20Developer&font=Fira%20Code&center=true&width=540&height=60&color=00ff00&vCenter=true&size=22">
+  <img src="https://komarev.com/ghpvc/?username=mohamedsamy04&label=Profile%20views&color=3b82f6&style=flat" alt="Profile Views" />
+</p>
+
+## 🚀 About Me
+
+- 🎓 I'm currently studying at **Faculty of Computers and Information, Kafr El Sheikh University**
+- 💻 Frontend Developer specializing in **React** and **Next.js**
+- 🌱 Currently learning **Advanced React Patterns** and **Web Performance Optimization**
+- 👯 Looking to collaborate on **Frontend Development Projects**
+- 💬 Ask me about **React, Next.js, TypeScript, and Tailwind CSS**
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamedsamy04&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedsamy04&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedsamy04&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
+
+
+## 🏆 Achievements
+
+- 🎯 Head of Frontend Committee at IEEE Kafrelshiekh Student Branch
+- 📚 Frontend Development Track at Google Developer Student Club
+- 🎓 Frontend Web Development Training at ITI
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="http://www.linkedin.com/in/mo72medsamy" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/mohamedsamy04" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:mohamedsamy25411@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
-## 🚀 About Me  
+## 📈 Activity Graph
 
-- 👨‍💻 **Frontend Developer** with **2+ years** of experience in modern web development.  
-- 🏗️ Passionate about building **responsive**, **user-friendly** web applications with elegant designs.  
-- 🔍 Proficient in **HTML, CSS, JavaScript**, and frameworks like **React.js & Next.js**.  
-- 🎨 Skilled in **Sass, Tailwind CSS, Bootstrap**, and **GitHub** for version control.  
-- 🚀 Currently enhancing my skills in **JavaScript frameworks** and **interactive frontend applications**.  
-- 🧠 Learning **advanced React.js** and keeping up with the latest frontend trends.  
-- 🤝 Open to collaborations on **modern web applications** and **UI/UX improvements**.  
+<div align="center">
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedsamy04&theme=tokyo-night" />
+</div>
 
 ---
 
-## 🔗 Connect with Me  
-
-<p align="left">
-<a href="http://www.linkedin.com/in/mo72medsamy" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-<a href="https://x.com/mo72med_samy?s=21&t=sNTUQJzP5ml0ixo6Gz5bfA" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-</a>
-<a href="https://www.instagram.com/mo72med_samy/profilecard/?igsh=cXQwZThnam50N2dz" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-</a>
-<a href="mailto:mohamedsamy25411@gmail.com">
-  <img align="center" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
-</a>
-</p>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</div>
 
 ---
 
-## 🛠 Tech Stack  
-
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=nextdotjs)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
----
-
-## 🚀 Portfolio  
-
-<p align="center">
-  🌍 Explore my work and projects on  
-  <br>
-  <a href="https://portfolio-psi-two-81.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/My%20Portfolio-%2300C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge">
-  </a>
-</p>
-
-
+<div align="center">
+  ⭐️ From [Mohamed Samy](https://github.com/mohamedsamy04)
+</div>
