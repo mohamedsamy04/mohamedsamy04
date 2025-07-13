@@ -368,7 +368,7 @@
 <div align="center">
   <h3>
     <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="30px"/>
-    ⭐️ From <a href="https://github.com/mohamedsamy04">Mohamed Samy</a> with ❤️ 
+    ⭐️ From <a href="https://mohamedsamy.software">Mohamed Samy</a> with ❤️ 
     <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="30px"/>
   </h3>
   <p><i>"Building the future, one line of code at a time"</i></p>
