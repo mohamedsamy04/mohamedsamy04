@@ -1,375 +1,387 @@
-<!-- Header with animated background -->
+<!-- HEADER WAVE -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Mohamed%20Samy&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20&amp;%20Next.js%20Specialist&descAlignY=51&descAlign=center" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,40:0d2847,100:0a192f&height=250&section=header&text=Mohamed%20Samy&fontSize=60&fontColor=64ffda&animation=fadeIn&fontAlignY=40&desc=Frontend%20Developer%20%E2%80%94%20React%20%7C%20Next.js%20%7C%20TypeScript&descAlignY=60&descSize=18&descColor=8892b0"/>
 </div>
 
-
-<!-- Animated typing effect with multiple lines -->
+<!-- TYPING ANIMATION -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=800&height=200&lines=🚀+Building+Digital+Experiences+That+Matter;⚡+React+%7C+Next.js+%7C+TypeScript+Specialist" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3500&pause=1200&color=64FFDA&center=true&vCenter=true&width=680&height=42&lines=Building+scalable%2C+performant+web+applications.;React+%7C+Next.js+%7C+TypeScript+%7C+Clean+Architecture.;Co-founder+%40+HYDRATECH+%E2%80%94+20%2B+projects%2C+3+countries.;Instructor+%40+IPA+%E2%80%94+Shaping+the+next+generation." alt="Typing SVG"/>
 </div>
 
-<!-- Holographic badge collection -->
+<br/>
+
+<!-- STATUS BADGES -->
 <div align="center">
-  <img src="https://img.shields.io/badge/🎯_Status-Available_For_Hire-00ff88?style=for-the-badge&labelColor=000&color=00ff88" alt="Status"/>
-  <img src="https://img.shields.io/badge/💼_Experience-2%2B_Years-ff6b6b?style=for-the-badge&labelColor=000&color=ff6b6b" alt="Experience"/>
-  <img src="https://img.shields.io/badge/⭐_Projects-10%2B_Delivered-ffd93d?style=for-the-badge&labelColor=000&color=ffd93d" alt="Projects"/>
-  <img src="https://img.shields.io/badge/🎓_Students-50%2B_Mentored-6bcf7f?style=for-the-badge&labelColor=000&color=6bcf7f" alt="Students"/>
+  <img src="https://img.shields.io/badge/%E2%97%8F%20Open%20to%20Work-64ffda?style=flat-square&labelColor=0d1117&color=0d1117&logoColor=64ffda"/>
+  <img src="https://img.shields.io/badge/3%2B%20Years%20Experience-0d1117?style=flat-square&color=0d1117&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/20%2B%20Projects%20Delivered-0d1117?style=flat-square&color=0d1117&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/50%2B%20Students%20Mentored-0d1117?style=flat-square&color=0d1117&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/100%25%20Client%20Satisfaction-0d1117?style=flat-square&color=0d1117&labelColor=0d1117"/>
 </div>
 
-<!-- Profile views with animated counter -->
+<br/>
+
+<!-- SOCIAL LINKS -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohamedsamy04&label=Profile%20Views&color=00d4ff&style=plastic" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/mohamedsamy04?label=Followers&style=plastic&color=00d4ff&logo=github" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/mohamedsamy04?label=Stars&style=plastic&color=00d4ff&logo=github" alt="GitHub Stars" />
+  <a href="https://mohamedsamy.software"><img src="https://img.shields.io/badge/Portfolio-mohamedsamy.software-64ffda?style=for-the-badge&labelColor=0d1117&color=112240"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/mo72medsamy"><img src="https://img.shields.io/badge/LinkedIn-mo72medsamy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/></a>&nbsp;
+  <a href="mailto:mohamedsamy25411@gmail.com"><img src="https://img.shields.io/badge/Gmail-mohamedsamy25411-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/></a>&nbsp;
+  <a href="https://wa.me/201000342166"><img src="https://img.shields.io/badge/WhatsApp-%2B201000342166-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117"/></a>
 </div>
 
-<!-- Animated separator -->
+<br/>
+
+---
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- Interactive developer card -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedsamy04&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats" height="200"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedsamy04&theme=radical&hide_border=true&background=0D1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=ffffff" alt="GitHub Streak" height="200"/>
-</div>
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="28"/> &nbsp;`$ whoami`
 
-<!-- 3D Contribution Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedsamy04&bg_color=0D1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true&custom_title=💻%20My%20Code%20Journey%20-%20Every%20Commit%20Tells%20a%20Story" alt="3D Contribution Graph" />
-</div>
+```typescript
+const MohamedSamy = {
+  role      : "Frontend Developer",
+  location  : "Kafr El Sheikh, Egypt 🌍",
 
-<!-- Animated separator -->
+  currently : {
+    company   : "HYDRATECH         →  Co-founder & Frontend Developer",
+    teaching  : "IPA               →  Frontend Development Instructor",
+    leadership: "IEEE Kafrelsheikh →  Technical Lead (10 committees)",
+  },
+
+  stack     : ["React.js", "Next.js", "TypeScript", "Tailwind CSS", "Framer Motion", "Lottie"],
+  focus     : ["Clean Architecture", "Performance Optimization", "UX-first Thinking"],
+  education : "B.Sc. Information Systems — Kafr El Sheikh University (2022–2026)",
+
+  stats     : { projects: "20+", countries: 3, students: "50+", satisfaction: "100%" },
+
+  available : true,
+} as const;
+```
+
+> *"I don't just write code — I engineer experiences that users remember."*
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- Matrix-style about section -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  THE MATRIX OF MOHAMED SAMY
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h2>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/> &nbsp;Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedsamy04&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d4ff&text_color=ffffff&langs_count=12" alt="Top Languages" height="200"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=mohamedsamy04&theme=radical&no-frame=true&column=3&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" height="200"/>
+
+**— Core —**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css&theme=dark&perline=6"/>
+
+<br/><br/>
+
+**— Styling & Animation —**
+
+<img src="https://skillicons.dev/icons?i=tailwind,sass,bootstrap,figma&theme=dark&perline=6"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Framer%20Motion-0d1117?style=flat-square&logo=framer&logoColor=0055ff&labelColor=0d1117&color=112240"/>
+<img src="https://img.shields.io/badge/Lottie%20Files-0d1117?style=flat-square&logo=airbnb&logoColor=FF5A5F&labelColor=0d1117&color=112240"/>
+<img src="https://img.shields.io/badge/shadcn%2Fui-0d1117?style=flat-square&logo=shadcnui&logoColor=white&labelColor=0d1117&color=112240"/>
+
+<br/><br/>
+
+**— State Management & Data —**
+
+<img src="https://img.shields.io/badge/React%20Query-0d1117?style=flat-square&logo=reactquery&logoColor=FF4154&labelColor=0d1117&color=112240"/>
+<img src="https://img.shields.io/badge/Redux%20Toolkit-0d1117?style=flat-square&logo=redux&logoColor=764ABC&labelColor=0d1117&color=112240"/>
+<img src="https://img.shields.io/badge/Zustand-0d1117?style=flat-square&logo=react&logoColor=64ffda&labelColor=0d1117&color=112240"/>
+<img src="https://img.shields.io/badge/Axios-0d1117?style=flat-square&logo=axios&logoColor=5A29E4&labelColor=0d1117&color=112240"/>
+
+<br/><br/>
+
+**— Tools & Workflow —**
+
+<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,postman&theme=dark&perline=5"/>
+
+<br/><br/>
+
+**— Additional Languages —**
+
+<img src="https://skillicons.dev/icons?i=python,cs&theme=dark&perline=6"/>
+<img src="https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=postgresql&logoColor=336791&labelColor=0d1117&color=112240"/>
+
 </div>
 
-<!-- Futuristic tech stack -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px"/>
-  ARSENAL OF TECHNOLOGIES
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px"/>
-</h2>
-
-<div align="center">
-  <table>
-    <tr>
-      <td valign="top" width="33%">
-        <h3 align="center">🚀 FRONTEND MASTERY</h3>
-        <div align="center">
-          <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css&theme=dark" alt="Frontend Skills"/>
-          <br><br>
-          <img src="https://img.shields.io/badge/React-Expert-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=000" alt="React Expert"/>
-          <img src="https://img.shields.io/badge/Next.js-Master-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=000" alt="Next.js Master"/>
-          <img src="https://img.shields.io/badge/TypeScript-Wizard-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000" alt="TypeScript Wizard"/>
-        </div>
-      </td>
-      <td valign="top" width="33%">
-        <h3 align="center">🎨 DESIGN SYSTEMS</h3>
-        <div align="center">
-          <img src="https://skillicons.dev/icons?i=tailwind,sass,bootstrap,figma&theme=dark" alt="Design Skills"/>
-          <br><br>
-          <img src="https://img.shields.io/badge/Tailwind-Architect-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=000" alt="Tailwind Architect"/>
-          <img src="https://img.shields.io/badge/Sass-Ninja-CC6699?style=for-the-badge&logo=sass&logoColor=white&labelColor=000" alt="Sass Ninja"/>
-          <img src="https://img.shields.io/badge/Bootstrap-Guru-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=000" alt="Bootstrap Guru"/>
-        </div>
-      </td>
-      <td valign="top" width="33%">
-        <h3 align="center">⚡ DEVELOPMENT TOOLS</h3>
-        <div align="center">
-          <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman&theme=dark" alt="Tools"/>
-          <br><br>
-          <img src="https://img.shields.io/badge/Git-Commander-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000" alt="Git Commander"/>
-          <img src="https://img.shields.io/badge/VS%20Code-Sensei-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=000" alt="VS Code Sensei"/>
-          <img src="https://img.shields.io/badge/Vercel-Deployer-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000" alt="Vercel Deployer"/>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<!-- Programming languages with animated icons -->
-<div align="center">
-  <h3>🔮 PROGRAMMING LANGUAGES</h3>
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,cs,sql&theme=dark" alt="Programming Languages"/>
-</div>
-
-<!-- Animated separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- Holographic project showcase -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50px"/>
-  PORTFOLIO OF EXCELLENCE
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50px"/>
-</h2>
+## 📊 &nbsp;GitHub Stats
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <div align="center">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedsamy04&repo=heba-oil-ecommerce&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff" alt="Heba Oil Project"/>
-          <h3>🛒 HEBA OIL E-COMMERCE</h3>
-          <p>
-            <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
-            <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js"/>
-            <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
-          </p>
-          <p>🎯 Full-stack e-commerce platform with advanced features</p>
-          <p>📈 Achieved 95% user satisfaction rate</p>
-          <p>🚀 Complete CRUD operations & order tracking</p>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/🌐_Live_Demo-00d4ff?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
-          </a>
-        </div>
-      </td>
-      <td width="50%">
-        <div align="center">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedsamy04&repo=rakaiz-medical-center&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff" alt="Rakaiz Medical Project"/>
-          <h3>🏥 RAKAIZ MEDICAL CENTER</h3>
-          <p>
-            <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
-            <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
-            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
-          </p>
-          <p>🎨 Modern medical clinic with smooth animations</p>
-          <p>📊 Increased bookings by 40%</p>
-          <p>⚡ Advanced admin panel for content management</p>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/🌐_Live_Demo-00d4ff?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
-          </a>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <div align="center">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedsamy04&repo=ieee-website&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff" alt="IEEE Website"/>
-          <h3>🌐 IEEE STUDENT BRANCH</h3>
-          <p>
-            <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
-            <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-            <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
-          </p>
-          <p>🎓 Official IEEE website with modern design</p>
-          <p>📝 Event registration & membership system</p>
-          <p>📱 Fully responsive across all devices</p>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/🌐_Live_Demo-00d4ff?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
-          </a>
-        </div>
-      </td>
-      <td width="50%">
-        <div align="center">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedsamy04&repo=hydratech-website&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff" alt="HYDRATECH Website"/>
-          <h3>🚀 HYDRATECH COMPANY</h3>
-          <p>
-            <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js"/>
-            <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-            <img src="https://img.shields.io/badge/Framer-0055FF?style=flat&logo=framer&logoColor=white" alt="Framer"/>
-          </p>
-          <p>🏢 Official company website with premium UI</p>
-          <p>💼 Showcases services & portfolio</p>
-          <p>🎯 Optimized for lead generation</p>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/🌐_Live_Demo-00d4ff?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
-          </a>
-        </div>
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamedsamy04&show_icons=true&hide_border=true&title_color=64ffda&icon_color=64ffda&text_color=ccd6f6&bg_color=0d1117&count_private=true&include_all_commits=true&rank_icon=github" height="175" alt="GitHub Stats"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedsamy04&hide_border=true&background=0d1117&stroke=1a3a5c&ring=64ffda&fire=64ffda&currStreakLabel=64ffda&sideLabels=8892b0&currStreakNum=ccd6f6&sideNums=ccd6f6&dates=8892b0" height="175" alt="Streak Stats"/>
 </div>
 
-<!-- Animated separator -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedsamy04&bg_color=0d1117&color=64ffda&line=64ffda&point=ccd6f6&area_color=1a3a5c&area=true&hide_border=true&custom_title=Contribution%20Activity" width="96%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedsamy04&layout=compact&hide_border=true&title_color=64ffda&text_color=ccd6f6&bg_color=0d1117&langs_count=8" height="140"/>
+</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- Holographic achievements section -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="40px"/>
-  HALL OF ACHIEVEMENTS
-  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="40px"/>
-</h2>
+## 🚀 &nbsp;Featured Projects
+
+> **4 selected highlights** &nbsp;—&nbsp; See all **20+** at **[mohamedsamy.software](https://mohamedsamy.software)**
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="25%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedsamy04&theme=radical&hide_border=true&background=0D1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=ffffff&type=png&hide_longest_streak=true&hide_current_streak=false" alt="Streak" width="100%"/>
-        <br>
-        <img src="https://img.shields.io/badge/🔥_CODING_STREAK-LEGENDARY-ff6b6b?style=for-the-badge&labelColor=000" alt="Coding Streak"/>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/💯_CLIENT_SATISFACTION-100%25-00ff88?style=for-the-badge&labelColor=000&logo=star&logoColor=white" alt="Client Satisfaction"/>
-        <br><br>
-        <img src="https://img.shields.io/badge/🏆_PERFECT_RATING-5_STARS-ffd93d?style=for-the-badge&labelColor=000&logo=trophy&logoColor=white" alt="Perfect Rating"/>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/🎓_STUDENTS_MENTORED-50%2B-6bcf7f?style=for-the-badge&labelColor=000&logo=users&logoColor=white" alt="Students Mentored"/>
-        <br><br>
-        <img src="https://img.shields.io/badge/📚_TRAINING_HOURS-280%2B-9b59b6?style=for-the-badge&labelColor=000&logo=clock&logoColor=white" alt="Training Hours"/>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/🌍_GLOBAL_REACH-3_COUNTRIES-e74c3c?style=for-the-badge&labelColor=000&logo=globe&logoColor=white" alt="Global Reach"/>
-        <br><br>
-        <img src="https://img.shields.io/badge/🚀_PROJECTS_DELIVERED-10%2B-3498db?style=for-the-badge&labelColor=000&logo=rocket&logoColor=white" alt="Projects Delivered"/>
-      </td>
-    </tr>
-  </table>
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>⚖️ Mafad — Smart Legal Platform</h3>
+<img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=next.js&logoColor=white&labelColor=112240&color=112240"/>
+<img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178c6&labelColor=112240&color=112240"/>
+<img src="https://img.shields.io/badge/AI%20Integration-0d1117?style=flat-square&labelColor=112240&color=112240"/>
+<br/><br/>
+Saudi AI-powered legal research platform aggregating laws, regulations & circulars. Integrated AI model trained on legal texts with full article display and export support.
+<br/><br/>
+<a href="https://mafad.sa"><img src="https://img.shields.io/badge/Live%20Demo%20%E2%86%97-64ffda?style=flat-square&labelColor=0a192f&color=0a192f"/></a>
+</td>
+<td width="50%" valign="top">
+<h3>🛢️ PetroMind — AI Petroleum Platform</h3>
+<img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=next.js&logoColor=white&labelColor=112240&color=112240"/>
+<img src="https://img.shields.io/badge/AI%20Chatbot-0d1117?style=flat-square&labelColor=112240&color=112240"/>
+<img src="https://img.shields.io/badge/MCQ%20System-0d1117?style=flat-square&labelColor=112240&color=112240"/>
+<br/><br/>
+Specialized AI platform for petroleum engineers covering reservoir, drilling & HSE. Intelligent chatbot trained on academic references + MCQ system with performance tracking.
+<br/><br/>
+<a href="https://mohamedsamy.software"><img src="https://img.shields.io/badge/Live%20Demo%20%E2%86%97-64ffda?style=flat-square&labelColor=0a192f&color=0a192f"/></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🛒 Sodfa — E-commerce Platform</h3>
+<img src="https://img.shields.io/badge/React.js-0d1117?style=flat-square&logo=react&logoColor=61dafb&labelColor=112240&color=112240"/>
+<img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178c6&labelColor=112240&color=112240"/>
+<img src="https://img.shields.io/badge/Admin%20Dashboard-0d1117?style=flat-square&labelColor=112240&color=112240"/>
+<br/><br/>
+Full e-commerce for watches & accessories — checkout, payments, returns. Integrated admin dashboard with inventory management, analytics & order tracking.
+<br/><br/>
+<a href="https://mohamedsamy.software"><img src="https://img.shields.io/badge/Live%20Demo%20%E2%86%97-64ffda?style=flat-square&labelColor=0a192f&color=0a192f"/></a>
+</td>
+<td width="50%" valign="top">
+<h3>📱 Smart Moon — Electronics Store</h3>
+<img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=next.js&logoColor=white&labelColor=112240&color=112240"/>
+<img src="https://img.shields.io/badge/React.js-0d1117?style=flat-square&logo=react&logoColor=61dafb&labelColor=112240&color=112240"/>
+<img src="https://img.shields.io/badge/Full--stack-0d1117?style=flat-square&labelColor=112240&color=112240"/>
+<br/><br/>
+E-commerce for electronics with advanced filtering, full order management & comprehensive admin dashboard with analytics and inventory tracking.
+<br/><br/>
+<a href="https://mohamedsamy.software"><img src="https://img.shields.io/badge/Live%20Demo%20%E2%86%97-64ffda?style=flat-square&labelColor=0a192f&color=0a192f"/></a>
+</td>
+</tr>
+</table>
 </div>
-
-<!-- Professional journey timeline -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/l0HlKrB02QY0f1mbm/giphy.gif" width="40px"/>
-  PROFESSIONAL JOURNEY
-  <img src="https://media.giphy.com/media/l0HlKrB02QY0f1mbm/giphy.gif" width="40px"/>
-</h2>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/🏢_HYDRATECH-Co--founder_&_Frontend_Developer-00d4ff?style=for-the-badge&labelColor=000" alt="HYDRATECH"/>
-        <br><br>
-        <p><strong>May 2025 – Present</strong></p>
-        <ul align="left">
-          <li>🚀 Co-founded digital solutions startup</li>
-          <li>🌍 Delivered 10+ projects across 3 countries</li>
-          <li>⭐ Achieved 100% client satisfaction</li>
-          <li>💻 Led React.js, Next.js, TypeScript development</li>
-        </ul>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/🎓_IEEE_KAFR_EL_SHEIKH-Head_of_Frontend_Committee-3498db?style=for-the-badge&labelColor=000" alt="IEEE"/>
-        <br><br>
-        <p><strong>Oct 2024 – Jun 2025</strong></p>
-        <ul align="left">
-          <li>👨‍🏫 Mentored 50+ students in web development</li>
-          <li>📚 Conducted hands-on training sessions</li>
-          <li>🏆 Led team formations for real projects</li>
-          <li>🎯 Promoted collaborative development</li>
-        </ul>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/🎓_ITI_TRAINING-Summer_Code_Camp_Graduate-e74c3c?style=for-the-badge&labelColor=000" alt="ITI"/>
-        <br><br>
-        <p><strong>Jul 2025 & Aug 2024</strong></p>
-        <ul align="left">
-          <li>⚡ 120+ hours React intensive training</li>
-          <li>🎯 162 hours Frontend development diploma</li>
-          <li>🏗️ Built real-world projects</li>
-          <li>🤝 Collaborative learning environment</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
+  <br/>
+  <a href="https://mohamedsamy.software">
+    <img src="https://img.shields.io/badge/%E2%86%92%20View%20all%2020%2B%20projects%20on%20my%20portfolio-64ffda?style=for-the-badge&labelColor=0a192f&color=0a192f"/>
+  </a>
 </div>
 
-<!-- Animated separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- Futuristic education section -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" width="40px"/>
-  EDUCATION & CERTIFICATION MATRIX
-  <img src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" width="40px"/>
-</h2>
+## 💼 &nbsp;Experience
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://img.shields.io/badge/🏫_KAFR_EL_SHEIKH_UNIVERSITY-Bachelor_of_Information_Systems-2980b9?style=for-the-badge&labelColor=000" alt="University"/>
-        <br><br>
-        <p><strong>2022 – 2026</strong></p>
-        <p>📊 <strong>GPA: 3.3/4.0</strong></p>
-        <p>📚 Database Management, Software Engineering, Web Development</p>
-        <img src="https://img.shields.io/badge/Status-In_Progress-f39c12?style=flat&logo=graduation-cap&logoColor=white" alt="Status"/>
-      </td>
-      <td align="center" width="50%">
-        <img src="https://img.shields.io/badge/🎯_SPECIALIZED_TRAINING-Multiple_Certifications-27ae60?style=for-the-badge&labelColor=000" alt="Certifications"/>
-        <br><br>
-        <p><strong>2023 – 2025</strong></p>
-        <p>🏆 React Crash Course - Udemy</p>
-        <p>🏆 Next.js & React Projects - Udemy</p>
-        <p>🏆 JavaScript Essentials - Cisco</p>
-        <p>🏆 Bootstrap Framework - Udemy</p>
-        <p>🏆 Python Programming - University of Michigan</p>
-      </td>
-    </tr>
-  </table>
-</div>
+<table width="100%">
+<tr>
+<td width="22%" valign="top"><b>Dec 2025 – Present</b></td>
+<td valign="top">
+<b>🎓 Frontend Development Instructor & Mentor</b><br/>
+<i>International Professional Academy (IPA) · Kafr El Sheikh</i><br/>
+<sub>Teaching HTML, CSS, JavaScript & React.js · Designing practical assignments & evaluations · Mentoring students through real-world project builds</sub>
+</td>
+</tr>
+<tr><td colspan="2"><hr/></td></tr>
+<tr>
+<td valign="top"><b>Sep 2025 – Present</b></td>
+<td valign="top">
+<b>⚡ Technical Lead</b><br/>
+<i>IEEE Kafrelsheikh Student Branch · Kafr El Sheikh</i><br/>
+<sub>Leading 10 specialized committees: Frontend, Backend, Mobile, Computer Vision, AI/ML · Reviewing content quality · Coordinating workshops & technical events</sub>
+</td>
+</tr>
+<tr><td colspan="2"><hr/></td></tr>
+<tr>
+<td valign="top"><b>Apr 2025 – Present</b></td>
+<td valign="top">
+<b>🚀 Co-founder & Frontend Developer</b><br/>
+<i>HYDRATECH · Kafr El Sheikh</i><br/>
+<sub>20+ production projects across 3 countries · 100% client satisfaction · React.js, Next.js, TypeScript with clean architecture principles</sub>
+</td>
+</tr>
+<tr><td colspan="2"><hr/></td></tr>
+<tr>
+<td valign="top"><b>Oct 2024 – Jun 2025</b></td>
+<td valign="top">
+<b>🎯 Head of Frontend Committee</b><br/>
+<i>IEEE Kafrelsheikh Student Branch · Kafr El Sheikh</i><br/>
+<sub>Mentored 50+ students in HTML, CSS & JavaScript · Hands-on sessions with live feedback · Formed and led teams for real-world project delivery</sub>
+</td>
+</tr>
+<tr><td colspan="2"><hr/></td></tr>
+<tr>
+<td valign="top"><b>Jul 2025</b></td>
+<td valign="top">
+<b>⚙️ React Development Trainee</b><br/>
+<i>Information Technology Institute (ITI) · Tanta Branch</i><br/>
+<sub>120-hour intensive training · ES.Next, HTML5, Bootstrap, ReactJS · End-to-end capstone project</sub>
+</td>
+</tr>
+<tr><td colspan="2"><hr/></td></tr>
+<tr>
+<td valign="top"><b>Aug 2024</b></td>
+<td valign="top">
+<b>⚙️ Frontend Web Development Trainee</b><br/>
+<i>Information Technology Institute (ITI) · Suez Canal Branch</i><br/>
+<sub>162-hour diploma · HTML5, CSS3, JavaScript, jQuery, Sass, Bootstrap · Responsive design & usability</sub>
+</td>
+</tr>
+</table>
 
-<!-- Animated separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- Holographic connect section -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60px"/>
-  CONNECT WITH THE MATRIX
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60px"/>
-</h2>
+## 🏆 &nbsp;Achievements
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="25%">
-        <a href="http://www.linkedin.com/in/mo72medsamy" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000" alt="LinkedIn"/>
-        </a>
-        <br><br>
-        <p>💼 Professional Network</p>
-      </td>
-      <td align="center" width="25%">
-        <a href="https://github.com/mohamedsamy04" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000" alt="GitHub"/>
-        </a>
-        <br><br>
-        <p>💻 Code Repository</p>
-      </td>
-      <td align="center" width="25%">
-        <a href="mailto:mohamedsamy25411@gmail.com">
-          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000" alt="Gmail"/>
-        </a>
-        <br><br>
-        <p>📧 Direct Contact</p>
-      </td>
-      <td align="center" width="25%">
-        <a href="tel:+201000342166">
-          <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000" alt="Phone"/>
-        </a>
-        <br><br>
-        <p>📞 Instant Connect</p>
-      </td>
-    </tr>
-  </table>
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🚀%2020%2B%20Projects-Delivered-64ffda?style=for-the-badge&labelColor=0a192f&color=0a192f"/><br/>
+<sub>Production apps across Egypt & internationally</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🌍%203%20Countries-Reached-64ffda?style=for-the-badge&labelColor=0a192f&color=0a192f"/><br/>
+<sub>International client base</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/👨%E2%80%8D🎓%2050%2B%20Students-Mentored-64ffda?style=for-the-badge&labelColor=0a192f&color=0a192f"/><br/>
+<sub>At IEEE Kafrelsheikh & IPA</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/✅%20100%25-Satisfaction-64ffda?style=for-the-badge&labelColor=0a192f&color=0a192f"/><br/>
+<sub>Perfect client delivery record</sub>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/🏢%20Startup-Co--Founder-8892b0?style=for-the-badge&labelColor=0a192f&color=0a192f"/><br/>
+<sub>Co-founded HYDRATECH</sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/📋%2010%20Committees-Tech%20Lead-8892b0?style=for-the-badge&labelColor=0a192f&color=0a192f"/><br/>
+<sub>Leading IEEE operations</sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/⚡%20280%2B%20Hours-Training-8892b0?style=for-the-badge&labelColor=0a192f&color=0a192f"/><br/>
+<sub>ITI intensive programs</sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/🎓%20Active-Instructor-8892b0?style=for-the-badge&labelColor=0a192f&color=0a192f"/><br/>
+<sub>Teaching at IPA</sub>
+</td>
+</tr>
+</table>
 </div>
 
-<!-- Animated quote section -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🎓 &nbsp;Education & Certifications
+
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20future%20belongs%20to%20those%20who%20believe%20in%20the%20beauty%20of%20their%20dreams&author=Eleanor%20Roosevelt" alt="Inspirational Quote"/>
+
+### 🏛️ Kafr El Sheikh University
+**B.Sc. Information Systems** &nbsp;|&nbsp; `2022 – 2026` &nbsp;|&nbsp; GPA: **3.3 / 4.0**
+
+*Database Management · Software Engineering · Web Development*
+
 </div>
 
-<!-- Matrix rain effect footer -->
+<br/>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=footer&text=Thank%20You%20For%20Visiting!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=70" />
+<table>
+<tr>
+<th align="left">📜 Certificate</th>
+<th align="left">🏛️ Issued By</th>
+<th align="center">📅 Year</th>
+</tr>
+<tr>
+<td>Frontend Web Development Diploma — 162h</td>
+<td>Information Technology Institute (ITI)</td>
+<td align="center">2024</td>
+</tr>
+<tr>
+<td>React Development Camp — 120h</td>
+<td>Information Technology Institute (ITI)</td>
+<td align="center">2025</td>
+</tr>
+<tr>
+<td>React Crash Course</td>
+<td>Udemy</td>
+<td align="center">2024</td>
+</tr>
+<tr>
+<td>Next.js & React – Complete Projects</td>
+<td>Udemy</td>
+<td align="center">2024</td>
+</tr>
+<tr>
+<td>Bootstrap 5 Framework</td>
+<td>Udemy</td>
+<td align="center">2024</td>
+</tr>
+<tr>
+<td>JavaScript Essentials</td>
+<td>Cisco</td>
+<td align="center">2024</td>
+</tr>
+<tr>
+<td>Python Programming</td>
+<td>University of Michigan</td>
+<td align="center">2023</td>
+</tr>
+</table>
 </div>
 
-<!-- Final matrix signature -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 📬 &nbsp;Let's Connect
+
 <div align="center">
-  <h3>
-    <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="30px"/>
-    ⭐️ From <a href="https://mohamedsamy.software">Mohamed Samy</a> with ❤️ 
-    <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="30px"/>
-  </h3>
-  <p><i>"Building the future, one line of code at a time"</i></p>
-  <img src="https://readme
+  <a href="https://mohamedsamy.software">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-mohamedsamy.software-64ffda?style=for-the-badge&labelColor=0a192f&color=112240"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/mo72medsamy">
+    <img src="https://img.shields.io/badge/LinkedIn-mo72medsamy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a192f"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/mohamedsamy04">
+    <img src="https://img.shields.io/badge/GitHub-mohamedsamy04-ccd6f6?style=for-the-badge&logo=github&logoColor=white&labelColor=0a192f"/>
+  </a>
+  <br/><br/>
+  <a href="mailto:mohamedsamy25411@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-mohamedsamy25411%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a192f"/>
+  </a>
+  &nbsp;
+  <a href="https://wa.me/201000342166">
+    <img src="https://img.shields.io/badge/WhatsApp-%2B201000342166-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0a192f"/>
+  </a>
+</div>
+
+<br/>
+
+<!-- FOOTER WAVE -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,100:0d1117&height=110&section=footer&text=Building+the+future%2C+one+line+of+code+at+a+time.&fontSize=13&fontColor=64ffda&fontAlignY=65&animation=fadeIn" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohamedsamy04&label=Profile+Views&color=64ffda&style=flat-square&labelColor=0d1117"/>
+</div>
