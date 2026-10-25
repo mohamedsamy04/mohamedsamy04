@@ -1,387 +1,354 @@
-<!-- HEADER WAVE -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,40:0d2847,100:0a192f&height=250&section=header&text=Mohamed%20Samy&fontSize=60&fontColor=64ffda&animation=fadeIn&fontAlignY=40&desc=Frontend%20Developer%20%E2%80%94%20React%20%7C%20Next.js%20%7C%20TypeScript&descAlignY=60&descSize=18&descColor=8892b0"/>
-</div>
 
-<!-- TYPING ANIMATION -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3500&pause=1200&color=64FFDA&center=true&vCenter=true&width=680&height=42&lines=Building+scalable%2C+performant+web+applications.;React+%7C+Next.js+%7C+TypeScript+%7C+Clean+Architecture.;Co-founder+%40+HYDRATECH+%E2%80%94+20%2B+projects%2C+3+countries.;Instructor+%40+IPA+%E2%80%94+Shaping+the+next+generation." alt="Typing SVG"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:0b2a4a,100:0d1117&height=230&section=header&text=Mohamed%20Samy&fontSize=62&fontColor=f0f6fc&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Founder%20of%20HAGZ&descSize=19&descAlignY=60&descColor=9fb3c8&animation=fadeIn" width="100%" alt="Mohamed Samy · Software Engineer · Founder of HAGZ"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&height=40&lines=I+build+and+ship+production+web+platforms+and+mobile+apps.;Founder+of+HAGZ+%E2%80%94+sports+court+booking+across+Egypt.;Published+Thawab+on+the+App+Store.;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+React+Native." alt="Typing headline"/>
 
 <br/>
 
-<!-- STATUS BADGES -->
-<div align="center">
-  <img src="https://img.shields.io/badge/%E2%97%8F%20Open%20to%20Work-64ffda?style=flat-square&labelColor=0d1117&color=0d1117&logoColor=64ffda"/>
-  <img src="https://img.shields.io/badge/3%2B%20Years%20Experience-0d1117?style=flat-square&color=0d1117&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/20%2B%20Projects%20Delivered-0d1117?style=flat-square&color=0d1117&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/50%2B%20Students%20Mentored-0d1117?style=flat-square&color=0d1117&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/100%25%20Client%20Satisfaction-0d1117?style=flat-square&color=0d1117&labelColor=0d1117"/>
+<a href="https://www.linkedin.com/in/mo72medsamy"><img src="https://img.shields.io/badge/LinkedIn-mo72medsamy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/></a>
+<a href="mailto:mohamedsamy25411@gmail.com"><img src="https://img.shields.io/badge/Email-mohamedsamy25411-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email"/></a>
+<a href="https://hagz-app.com"><img src="https://img.shields.io/badge/HAGZ-hagz--app.com-2ea043?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0d1117" alt="HAGZ"/></a>
+<a href="https://apps.apple.com/app/id6822110145"><img src="https://img.shields.io/badge/App_Store-Thawab-f0f6fc?style=for-the-badge&logo=apple&logoColor=white&labelColor=0d1117" alt="Thawab on the App Store"/></a>
+
+<br/><br/>
+
+<table>
+  <tr>
+    <td align="center" width="200"><h2>7+</h2><sub>PRODUCTION PLATFORMS<br/>SHIPPED</sub></td>
+    <td align="center" width="200"><h2>1,000+</h2><sub>AUTOMATED TESTS<br/>BEHIND THAWAB</sub></td>
+    <td align="center" width="200"><h2>50+</h2><sub>DEVELOPERS<br/>MENTORED</sub></td>
+    <td align="center" width="200"><h2>10</h2><sub>TECHNICAL COMMITTEES<br/>LED</sub></td>
+  </tr>
+</table>
+
 </div>
+
+> [!TIP]
+> **Open to software engineering roles.** Product-minded engineer who owns delivery end to end: architecture, UI/UX, performance, testing, release, and growth.
 
 <br/>
 
-<!-- SOCIAL LINKS -->
-<div align="center">
-  <a href="https://mohamedsamy.software"><img src="https://img.shields.io/badge/Portfolio-mohamedsamy.software-64ffda?style=for-the-badge&labelColor=0d1117&color=112240"/></a>&nbsp;
-  <a href="https://www.linkedin.com/in/mo72medsamy"><img src="https://img.shields.io/badge/LinkedIn-mo72medsamy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/></a>&nbsp;
-  <a href="mailto:mohamedsamy25411@gmail.com"><img src="https://img.shields.io/badge/Gmail-mohamedsamy25411-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/></a>&nbsp;
-  <a href="https://wa.me/201000342166"><img src="https://img.shields.io/badge/WhatsApp-%2B201000342166-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117"/></a>
-</div>
-
-<br/>
-
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="28"/> &nbsp;`$ whoami`
+## 〔 01 〕 About
 
 ```typescript
-const MohamedSamy = {
-  role      : "Frontend Developer",
-  location  : "Kafr El Sheikh, Egypt 🌍",
+const engineer = {
+  name:       "Mohamed Samy",
+  role:       "Software Engineer",
+  founder:    "HAGZ  →  hagz-app.com",
+  based:      "Kafr El Sheikh, Egypt",
 
-  currently : {
-    company   : "HYDRATECH         →  Co-founder & Frontend Developer",
-    teaching  : "IPA               →  Frontend Development Instructor",
-    leadership: "IEEE Kafrelsheikh →  Technical Lead (10 committees)",
-  },
+  specialty:  ["React", "Next.js", "TypeScript", "React Native", "Expo"],
+  fullStack:  ["ASP.NET Core", "Node.js", "REST APIs", "PostgreSQL", "Supabase", "WebSockets"],
 
-  stack     : ["React.js", "Next.js", "TypeScript", "Tailwind CSS", "Framer Motion", "Lottie"],
-  focus     : ["Clean Architecture", "Performance Optimization", "UX-first Thinking"],
-  education : "B.Sc. Information Systems — Kafr El Sheikh University (2022–2026)",
+  shipped:    ["HAGZ", "Thawab", "PetroMind", "Agromind", "Tahseel", "Magid", "Mafad"],
+  leadership: { technicalCommittees: 10, developersMentored: "50+" },
 
-  stats     : { projects: "20+", countries: 3, students: "50+", satisfaction: "100%" },
-
-  available : true,
+  education:  "B.Sc. Information Systems · Kafr El Sheikh University · 2026",
 } as const;
 ```
 
-> *"I don't just write code — I engineer experiences that users remember."*
+<br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+## 〔 02 〕 Featured Work
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/> &nbsp;Tech Stack
-
-<div align="center">
-
-**— Core —**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css&theme=dark&perline=6"/>
-
-<br/><br/>
-
-**— Styling & Animation —**
-
-<img src="https://skillicons.dev/icons?i=tailwind,sass,bootstrap,figma&theme=dark&perline=6"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Framer%20Motion-0d1117?style=flat-square&logo=framer&logoColor=0055ff&labelColor=0d1117&color=112240"/>
-<img src="https://img.shields.io/badge/Lottie%20Files-0d1117?style=flat-square&logo=airbnb&logoColor=FF5A5F&labelColor=0d1117&color=112240"/>
-<img src="https://img.shields.io/badge/shadcn%2Fui-0d1117?style=flat-square&logo=shadcnui&logoColor=white&labelColor=0d1117&color=112240"/>
-
-<br/><br/>
-
-**— State Management & Data —**
-
-<img src="https://img.shields.io/badge/React%20Query-0d1117?style=flat-square&logo=reactquery&logoColor=FF4154&labelColor=0d1117&color=112240"/>
-<img src="https://img.shields.io/badge/Redux%20Toolkit-0d1117?style=flat-square&logo=redux&logoColor=764ABC&labelColor=0d1117&color=112240"/>
-<img src="https://img.shields.io/badge/Zustand-0d1117?style=flat-square&logo=react&logoColor=64ffda&labelColor=0d1117&color=112240"/>
-<img src="https://img.shields.io/badge/Axios-0d1117?style=flat-square&logo=axios&logoColor=5A29E4&labelColor=0d1117&color=112240"/>
-
-<br/><br/>
-
-**— Tools & Workflow —**
-
-<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,postman&theme=dark&perline=5"/>
-
-<br/><br/>
-
-**— Additional Languages —**
-
-<img src="https://skillicons.dev/icons?i=python,cs&theme=dark&perline=6"/>
-<img src="https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=postgresql&logoColor=336791&labelColor=0d1117&color=112240"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 📊 &nbsp;GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedsamy04&show_icons=true&hide_border=true&title_color=64ffda&icon_color=64ffda&text_color=ccd6f6&bg_color=0d1117&count_private=true&include_all_commits=true&rank_icon=github" height="175" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedsamy04&hide_border=true&background=0d1117&stroke=1a3a5c&ring=64ffda&fire=64ffda&currStreakLabel=64ffda&sideLabels=8892b0&currStreakNum=ccd6f6&sideNums=ccd6f6&dates=8892b0" height="175" alt="Streak Stats"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedsamy04&bg_color=0d1117&color=64ffda&line=64ffda&point=ccd6f6&area_color=1a3a5c&area=true&hide_border=true&custom_title=Contribution%20Activity" width="96%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedsamy04&layout=compact&hide_border=true&title_color=64ffda&text_color=ccd6f6&bg_color=0d1117&langs_count=8" height="140"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🚀 &nbsp;Featured Projects
-
-> **4 selected highlights** &nbsp;—&nbsp; See all **20+** at **[mohamedsamy.software](https://mohamedsamy.software)**
-
-<div align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3>⚖️ Mafad — Smart Legal Platform</h3>
-<img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=next.js&logoColor=white&labelColor=112240&color=112240"/>
-<img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178c6&labelColor=112240&color=112240"/>
-<img src="https://img.shields.io/badge/AI%20Integration-0d1117?style=flat-square&labelColor=112240&color=112240"/>
-<br/><br/>
-Saudi AI-powered legal research platform aggregating laws, regulations & circulars. Integrated AI model trained on legal texts with full article display and export support.
-<br/><br/>
-<a href="https://mafad.sa"><img src="https://img.shields.io/badge/Live%20Demo%20%E2%86%97-64ffda?style=flat-square&labelColor=0a192f&color=0a192f"/></a>
+
+<h3>⬢ HAGZ</h3>
+
+`LIVE` `FOUNDER` `iOS · ANDROID · WEB`
+
+**Sports court booking platform for Egypt.** Players find, filter, book, and pay for football, padel, and tennis courts. Court owners run their business from a real-time dashboard.
+
+<img src="https://img.shields.io/badge/React_Native-20232a?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-1a1a1a?style=flat-square&logo=firebase&logoColor=FFCA28"/> <img src="https://img.shields.io/badge/Swift-1a1a1a?style=flat-square&logo=swift&logoColor=F05138"/>
+
+<a href="https://hagz-app.com"><b>hagz-app.com →</b></a>
+
 </td>
 <td width="50%" valign="top">
-<h3>🛢️ PetroMind — AI Petroleum Platform</h3>
-<img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=next.js&logoColor=white&labelColor=112240&color=112240"/>
-<img src="https://img.shields.io/badge/AI%20Chatbot-0d1117?style=flat-square&labelColor=112240&color=112240"/>
-<img src="https://img.shields.io/badge/MCQ%20System-0d1117?style=flat-square&labelColor=112240&color=112240"/>
-<br/><br/>
-Specialized AI platform for petroleum engineers covering reservoir, drilling & HSE. Intelligent chatbot trained on academic references + MCQ system with performance tracking.
-<br/><br/>
-<a href="https://mohamedsamy.software"><img src="https://img.shields.io/badge/Live%20Demo%20%E2%86%97-64ffda?style=flat-square&labelColor=0a192f&color=0a192f"/></a>
+
+<h3>⬢ Thawab</h3>
+
+`LIVE ON APP STORE` `iOS · ANDROID`
+
+**Daily Muslim companion app.** Offline prayer times with Adhan alerts, the complete Quran in Uthmani script, searchable Adhkar, a digital Tasbeeh, and home and lock-screen widgets.
+
+<img src="https://img.shields.io/badge/React_Native-20232a?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-1a1a1a?style=flat-square&logo=typescript&logoColor=3178C6"/> <img src="https://img.shields.io/badge/SwiftUI-1a1a1a?style=flat-square&logo=swift&logoColor=F05138"/>
+
+<a href="https://apps.apple.com/app/id6822110145"><b>View on the App Store →</b></a>
+
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3>🛒 Sodfa — E-commerce Platform</h3>
-<img src="https://img.shields.io/badge/React.js-0d1117?style=flat-square&logo=react&logoColor=61dafb&labelColor=112240&color=112240"/>
-<img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178c6&labelColor=112240&color=112240"/>
-<img src="https://img.shields.io/badge/Admin%20Dashboard-0d1117?style=flat-square&labelColor=112240&color=112240"/>
-<br/><br/>
-Full e-commerce for watches & accessories — checkout, payments, returns. Integrated admin dashboard with inventory management, analytics & order tracking.
-<br/><br/>
-<a href="https://mohamedsamy.software"><img src="https://img.shields.io/badge/Live%20Demo%20%E2%86%97-64ffda?style=flat-square&labelColor=0a192f&color=0a192f"/></a>
+
+<h3>⬢ PetroMind</h3>
+
+`LIVE` `3D` `AI`
+
+**3D and AI platform for petroleum engineering.** Interactive 3D simulations of rigs and equipment with an engineering card for every part, plus a visual Study Board and an AI assistant with MCQ practice.
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/TypeScript-1a1a1a?style=flat-square&logo=typescript&logoColor=3178C6"/>
+
+<a href="https://petromind.ai"><b>petromind.ai →</b></a>
+
 </td>
 <td width="50%" valign="top">
-<h3>📱 Smart Moon — Electronics Store</h3>
-<img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=next.js&logoColor=white&labelColor=112240&color=112240"/>
-<img src="https://img.shields.io/badge/React.js-0d1117?style=flat-square&logo=react&logoColor=61dafb&labelColor=112240&color=112240"/>
-<img src="https://img.shields.io/badge/Full--stack-0d1117?style=flat-square&labelColor=112240&color=112240"/>
-<br/><br/>
-E-commerce for electronics with advanced filtering, full order management & comprehensive admin dashboard with analytics and inventory tracking.
-<br/><br/>
-<a href="https://mohamedsamy.software"><img src="https://img.shields.io/badge/Live%20Demo%20%E2%86%97-64ffda?style=flat-square&labelColor=0a192f&color=0a192f"/></a>
-</td>
-</tr>
-</table>
-</div>
 
-<div align="center">
-  <br/>
-  <a href="https://mohamedsamy.software">
-    <img src="https://img.shields.io/badge/%E2%86%92%20View%20all%2020%2B%20projects%20on%20my%20portfolio-64ffda?style=for-the-badge&labelColor=0a192f&color=0a192f"/>
-  </a>
-</div>
+<h3>⬢ Agromind</h3>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+`GRADUATION PROJECT` `18 AI MODELS`
 
-## 💼 &nbsp;Experience
+**AI-powered smart farming ecosystem.** Web, mobile, backend, and AI services for disease detection, crop and fish growth prediction, smart irrigation, and an LLaMA 3 farming advisor.
 
-<table width="100%">
-<tr>
-<td width="22%" valign="top"><b>Dec 2025 – Present</b></td>
-<td valign="top">
-<b>🎓 Frontend Development Instructor & Mentor</b><br/>
-<i>International Professional Academy (IPA) · Kafr El Sheikh</i><br/>
-<sub>Teaching HTML, CSS, JavaScript & React.js · Designing practical assignments & evaluations · Mentoring students through real-world project builds</sub>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-1a1a1a?style=flat-square&logo=flutter&logoColor=02569B"/> <img src="https://img.shields.io/badge/ASP.NET_Core-1a1a1a?style=flat-square&logo=dotnet&logoColor=512BD4"/> <img src="https://img.shields.io/badge/FastAPI-1a1a1a?style=flat-square&logo=fastapi&logoColor=009688"/> <img src="https://img.shields.io/badge/TensorFlow-1a1a1a?style=flat-square&logo=tensorflow&logoColor=FF6F00"/>
+
 </td>
 </tr>
-<tr><td colspan="2"><hr/></td></tr>
 <tr>
-<td valign="top"><b>Sep 2025 – Present</b></td>
-<td valign="top">
-<b>⚡ Technical Lead</b><br/>
-<i>IEEE Kafrelsheikh Student Branch · Kafr El Sheikh</i><br/>
-<sub>Leading 10 specialized committees: Frontend, Backend, Mobile, Computer Vision, AI/ML · Reviewing content quality · Coordinating workshops & technical events</sub>
+<td width="50%" valign="top">
+
+<h3>⬢ Tahseel</h3>
+
+`GOVERNMENT CLIENT` `ARABIC RTL`
+
+**Contract and collection management.** One platform for a government investment administration covering contracts, collections, litigation, and documents, with permissions, financial calculations, and dashboards.
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-1a1a1a?style=flat-square&logo=typescript&logoColor=3178C6"/> <img src="https://img.shields.io/badge/Supabase-1a1a1a?style=flat-square&logo=supabase&logoColor=3ECF8E"/> <img src="https://img.shields.io/badge/PostgreSQL-1a1a1a?style=flat-square&logo=postgresql&logoColor=4169E1"/>
+
 </td>
-</tr>
-<tr><td colspan="2"><hr/></td></tr>
-<tr>
-<td valign="top"><b>Apr 2025 – Present</b></td>
-<td valign="top">
-<b>🚀 Co-founder & Frontend Developer</b><br/>
-<i>HYDRATECH · Kafr El Sheikh</i><br/>
-<sub>20+ production projects across 3 countries · 100% client satisfaction · React.js, Next.js, TypeScript with clean architecture principles</sub>
-</td>
-</tr>
-<tr><td colspan="2"><hr/></td></tr>
-<tr>
-<td valign="top"><b>Oct 2024 – Jun 2025</b></td>
-<td valign="top">
-<b>🎯 Head of Frontend Committee</b><br/>
-<i>IEEE Kafrelsheikh Student Branch · Kafr El Sheikh</i><br/>
-<sub>Mentored 50+ students in HTML, CSS & JavaScript · Hands-on sessions with live feedback · Formed and led teams for real-world project delivery</sub>
-</td>
-</tr>
-<tr><td colspan="2"><hr/></td></tr>
-<tr>
-<td valign="top"><b>Jul 2025</b></td>
-<td valign="top">
-<b>⚙️ React Development Trainee</b><br/>
-<i>Information Technology Institute (ITI) · Tanta Branch</i><br/>
-<sub>120-hour intensive training · ES.Next, HTML5, Bootstrap, ReactJS · End-to-end capstone project</sub>
-</td>
-</tr>
-<tr><td colspan="2"><hr/></td></tr>
-<tr>
-<td valign="top"><b>Aug 2024</b></td>
-<td valign="top">
-<b>⚙️ Frontend Web Development Trainee</b><br/>
-<i>Information Technology Institute (ITI) · Suez Canal Branch</i><br/>
-<sub>162-hour diploma · HTML5, CSS3, JavaScript, jQuery, Sass, Bootstrap · Responsive design & usability</sub>
+<td width="50%" valign="top">
+
+<h3>⬢ Magid · Mafad</h3>
+
+`CLIENT PROJECTS`
+
+**Magid:** Arabic-first PWA for purchase and sales orders with live status tracking, JWT auth, role-based access, and real-time notifications.
+
+**Mafad:** AI legal platform to search Saudi laws, regulations, and circulars, with an AI legal assistant grounded in the content.
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Zustand-1a1a1a?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/PWA-1a1a1a?style=flat-square&logo=pwa&logoColor=5A0FC8"/>
+
 </td>
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
 
-## 🏆 &nbsp;Achievements
+## 〔 03 〕 Inside HAGZ
+
+```mermaid
+flowchart LR
+    subgraph USERS["Users"]
+        P(["⚽ Players"])
+        O(["🏟️ Court Owners"])
+        AD(["🛡️ Platform Team"])
+    end
+
+    subgraph APPS["Apps"]
+        M["📱 Mobile App<br/>React Native · Expo<br/>iOS · Android"]
+        D["📊 Owner Dashboard<br/>Next.js · Tailwind"]
+        C["🛠️ Admin Console<br/>courts · users · refunds"]
+    end
+
+    subgraph CORE["Core"]
+        API{{"⚙️ HAGZ API"}}
+        RT["⚡ WebSockets<br/>real-time notifications"]
+    end
+
+    subgraph EXT["Services"]
+        AUTH["🔐 Google & Apple Sign-In"]
+        PUSH["🔔 Firebase Push"]
+        PAY["💳 Online Payment"]
+        OTA["🚀 OTA Updates"]
+    end
+
+    P --> M
+    O --> D
+    AD --> C
+    M --> API
+    D --> API
+    C --> API
+    API --> RT
+    RT -.-> D
+    M -.- AUTH
+    M -.- PUSH
+    M -.- OTA
+    API -.- PAY
+
+    classDef user fill:#0d1117,stroke:#58a6ff,color:#f0f6fc
+    classDef app fill:#161b22,stroke:#30363d,color:#f0f6fc
+    classDef core fill:#0b2a4a,stroke:#58a6ff,color:#f0f6fc
+    classDef ext fill:#161b22,stroke:#2ea043,color:#f0f6fc
+    class P,O,AD user
+    class M,D,C app
+    class API,RT core
+    class AUTH,PUSH,PAY,OTA ext
+```
+
+<br/>
+
+## 〔 04 〕 How Thawab Ships
+
+```mermaid
+flowchart LR
+    A["✍️ Code<br/>React Native · TypeScript"] --> B["🧪 1,000+<br/>Automated Tests"]
+    B --> C["☁️ EAS<br/>Cloud Build"]
+    C --> D["🍎 App Store<br/>live"]
+    C --> E["🤖 Google Play<br/>testing"]
+    B --> F["⚡ OTA Update<br/>instant fixes"]
+    F --> D
+    F --> E
+
+    classDef step fill:#161b22,stroke:#30363d,color:#f0f6fc
+    classDef gate fill:#0b2a4a,stroke:#58a6ff,color:#f0f6fc
+    classDef ship fill:#0f2a1a,stroke:#2ea043,color:#f0f6fc
+    class A,C step
+    class B,F gate
+    class D,E ship
+```
+
+<br/>
+
+## 〔 05 〕 Tech Universe
+
+```mermaid
+mindmap
+  root((Mohamed<br/>Samy))
+    Frontend
+      React
+      Next.js
+      TypeScript
+      Tailwind CSS
+      shadcn/ui
+      Zustand
+      PWA & RTL
+    Mobile
+      React Native
+      Expo & EAS
+      SwiftUI Widgets
+      Live Activities
+      Flutter
+    Backend
+      ASP.NET Core
+      Node.js & NestJS
+      FastAPI
+      REST & WebSockets
+      JWT & OAuth
+    Data & Cloud
+      PostgreSQL
+      Supabase
+      Firebase
+      Docker
+      Nginx & Linux
+    Engineering
+      Clean Architecture
+      System Design
+      Automated Testing
+      CI/CD
+      Technical Leadership
+```
 
 <div align="center">
+
+<img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React_Native-20232a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-1a1a1a?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E"/>
+<img src="https://img.shields.io/badge/PostgreSQL-1a1a1a?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
+<img src="https://img.shields.io/badge/Supabase-1a1a1a?style=for-the-badge&logo=supabase&logoColor=3ECF8E"/>
+<img src="https://img.shields.io/badge/Firebase-1a1a1a?style=for-the-badge&logo=firebase&logoColor=FFCA28"/>
+<img src="https://img.shields.io/badge/Docker-1a1a1a?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+
+</div>
+
+<br/>
+
+## 〔 06 〕 Journey
+
+```mermaid
+timeline
+    title From sales floor to founder
+    2018 – 2022 : Sales & Marketing Officer · Smart Moon
+                : Learned customers, sales, and business operations
+    Freelance   : Software Engineer · Smart Moon
+                : Built the e-commerce store and a complete ERP
+    2024        : Frontend Web Development Diploma · ITI
+                : Head of Frontend Committee · IEEE Kafrelsheikh
+    2025        : React Development Program · ITI
+                : Technical Lead of 10 committees · IEEE Kafrelsheikh
+                : React Instructor · IPA Academy
+    2026        : B.Sc. Information Systems · Graduated
+                : Founder · HAGZ
+```
+
+| Period | Role | Organization |
+|---|---|---|
+| **May 2026 – Present** | Founder | [HAGZ](https://hagz-app.com) |
+| **Sep 2025 – Jun 2026** | Technical Lead, all 10 technical committees | [IEEE Kafrelsheikh Student Branch](https://ieee-ksb.org/) |
+| **Dec 2025 – Apr 2026** | Frontend Development Instructor (React.js) | [IPA Academy](https://ipaegy.com/en) |
+| **Oct 2024 – Jun 2025** | Head of Frontend Committee, 50+ students | [IEEE Kafrelsheikh Student Branch](https://ieee-ksb.org/) |
+| **Freelance** | Software Engineer: e-commerce store and ERP | [Smart Moon](https://www.smart-moon.com/) |
+| **Nov 2018 – Sep 2022** | Sales & Marketing Officer | [Smart Moon](https://www.smart-moon.com/) |
+
+<br/>
+
+## 〔 07 〕 Education & Certifications
+
 <table>
 <tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/🚀%2020%2B%20Projects-Delivered-64ffda?style=for-the-badge&labelColor=0a192f&color=0a192f"/><br/>
-<sub>Production apps across Egypt & internationally</sub>
+<td width="50%" valign="top">
+
+**🎓 Kafr El Sheikh University**
+<br/>
+B.Sc. in Information Systems
+<br/>
+Faculty of Computers and Information
+<br/><br/>
+`GRADUATED JUNE 2026` `GPA 3.21 / 4.00` `79% · VERY GOOD`
+
 </td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/🌍%203%20Countries-Reached-64ffda?style=for-the-badge&labelColor=0a192f&color=0a192f"/><br/>
-<sub>International client base</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/👨%E2%80%8D🎓%2050%2B%20Students-Mentored-64ffda?style=for-the-badge&labelColor=0a192f&color=0a192f"/><br/>
-<sub>At IEEE Kafrelsheikh & IPA</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/✅%20100%25-Satisfaction-64ffda?style=for-the-badge&labelColor=0a192f&color=0a192f"/><br/>
-<sub>Perfect client delivery record</sub>
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/🏢%20Startup-Co--Founder-8892b0?style=for-the-badge&labelColor=0a192f&color=0a192f"/><br/>
-<sub>Co-founded HYDRATECH</sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/📋%2010%20Committees-Tech%20Lead-8892b0?style=for-the-badge&labelColor=0a192f&color=0a192f"/><br/>
-<sub>Leading IEEE operations</sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/⚡%20280%2B%20Hours-Training-8892b0?style=for-the-badge&labelColor=0a192f&color=0a192f"/><br/>
-<sub>ITI intensive programs</sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/🎓%20Active-Instructor-8892b0?style=for-the-badge&labelColor=0a192f&color=0a192f"/><br/>
-<sub>Teaching at IPA</sub>
+<td width="50%" valign="top">
+
+**📜 Certifications**
+
+- Frontend Web Development · [ITI](https://iti.gov.eg/home) · 162 hrs · Aug 2024
+- React Development · [ITI](https://iti.gov.eg/home) · 120 hrs · Jul 2025
+- Next.js & React: Real-World Projects · Udemy
+- React Crash Course · Udemy
+- JavaScript Essentials · Cisco Networking Academy
+- Python Programming · University of Michigan
+
 </td>
 </tr>
 </table>
-</div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
 
-## 🎓 &nbsp;Education & Certifications
+## 〔 08 〕 GitHub Activity
 
 <div align="center">
 
-### 🏛️ Kafr El Sheikh University
-**B.Sc. Information Systems** &nbsp;|&nbsp; `2022 – 2026` &nbsp;|&nbsp; GPA: **3.3 / 4.0**
-
-*Database Management · Software Engineering · Web Development*
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mohamedsamy04&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark&bg_color=0d1117" alt="GitHub stats"/>
+<img height="165" src="https://streak-stats.demolab.com?user=mohamedsamy04&hide_border=true&theme=github-dark-blue&background=0d1117" alt="GitHub streak"/>
 
 </div>
 
 <br/>
 
 <div align="center">
-<table>
-<tr>
-<th align="left">📜 Certificate</th>
-<th align="left">🏛️ Issued By</th>
-<th align="center">📅 Year</th>
-</tr>
-<tr>
-<td>Frontend Web Development Diploma — 162h</td>
-<td>Information Technology Institute (ITI)</td>
-<td align="center">2024</td>
-</tr>
-<tr>
-<td>React Development Camp — 120h</td>
-<td>Information Technology Institute (ITI)</td>
-<td align="center">2025</td>
-</tr>
-<tr>
-<td>React Crash Course</td>
-<td>Udemy</td>
-<td align="center">2024</td>
-</tr>
-<tr>
-<td>Next.js & React – Complete Projects</td>
-<td>Udemy</td>
-<td align="center">2024</td>
-</tr>
-<tr>
-<td>Bootstrap 5 Framework</td>
-<td>Udemy</td>
-<td align="center">2024</td>
-</tr>
-<tr>
-<td>JavaScript Essentials</td>
-<td>Cisco</td>
-<td align="center">2024</td>
-</tr>
-<tr>
-<td>Python Programming</td>
-<td>University of Michigan</td>
-<td align="center">2023</td>
-</tr>
-</table>
-</div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+### Let's build something great.
 
-## 📬 &nbsp;Let's Connect
+<a href="mailto:mohamedsamy25411@gmail.com"><img src="https://img.shields.io/badge/Email_me-mohamedsamy25411%40gmail.com-58a6ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/></a>
+<a href="https://www.linkedin.com/in/mo72medsamy"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/></a>
 
-<div align="center">
-  <a href="https://mohamedsamy.software">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-mohamedsamy.software-64ffda?style=for-the-badge&labelColor=0a192f&color=112240"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/mo72medsamy">
-    <img src="https://img.shields.io/badge/LinkedIn-mo72medsamy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a192f"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/mohamedsamy04">
-    <img src="https://img.shields.io/badge/GitHub-mohamedsamy04-ccd6f6?style=for-the-badge&logo=github&logoColor=white&labelColor=0a192f"/>
-  </a>
-  <br/><br/>
-  <a href="mailto:mohamedsamy25411@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-mohamedsamy25411%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a192f"/>
-  </a>
-  &nbsp;
-  <a href="https://wa.me/201000342166">
-    <img src="https://img.shields.io/badge/WhatsApp-%2B201000342166-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0a192f"/>
-  </a>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,55:0b2a4a,100:0d1117&height=120&section=footer" width="100%" alt=""/>
 
-<br/>
-
-<!-- FOOTER WAVE -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,100:0d1117&height=110&section=footer&text=Building+the+future%2C+one+line+of+code+at+a+time.&fontSize=13&fontColor=64ffda&fontAlignY=65&animation=fadeIn" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohamedsamy04&label=Profile+Views&color=64ffda&style=flat-square&labelColor=0d1117"/>
 </div>
