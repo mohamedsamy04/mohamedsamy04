@@ -15,7 +15,7 @@
 
 <table>
   <tr>
-    <td align="center" width="200"><h2>7+</h2><sub>PRODUCTION PLATFORMS<br/>SHIPPED</sub></td>
+    <td align="center" width="200"><h2>20+</h2><sub>PRODUCTION PLATFORMS<br/>SHIPPED</sub></td>
     <td align="center" width="200"><h2>1,000+</h2><sub>AUTOMATED TESTS<br/>BEHIND THAWAB</sub></td>
     <td align="center" width="200"><h2>50+</h2><sub>DEVELOPERS<br/>MENTORED</sub></td>
     <td align="center" width="200"><h2>10</h2><sub>TECHNICAL COMMITTEES<br/>LED</sub></td>
